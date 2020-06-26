@@ -1,3 +1,3 @@
-#Piano di lavoro stage in AzzuroDigitale
+# Piano di lavoro stage in AzzuroDigitale
 
-###Studente: Federico Perin
+### Studente: Federico Perin
